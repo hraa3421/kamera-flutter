@@ -1,21 +1,17 @@
-<<<<<<< HEAD
-# kamera_flutter
+# Praktikum 1: Aplikasi Kamera Flutter
 
-A new Flutter project.
+## Deskripsi
+Aplikasi ini merupakan implementasi kamera pada Flutter yang memungkinkan pengguna untuk mengambil foto menggunakan kamera perangkat.
 
-## Getting Started
+## Screenshot Hasil
+![Screenshot aplikasi kamera](link-ke-gambar.png)
 
-This project is a starting point for a Flutter application.
+## Penjelasan
+Dalam aplikasi ini saya mengimplementasikan:
+1. Penggunaan plugin camera untuk mengakses kamera perangkat
+2. Implementasi preview kamera secara realtime
+3. Fungsi untuk mengambil foto dan menyimpannya
+4. [Fitur lain yang Anda implementasikan]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# kamera-flutter
-kamera flutter
->>>>>>> 802c042fa636f28a6c64a12ddc48c59454917751
+## Tantangan dan Solusi
+[Jelaskan tantangan yang Anda hadapi selama mengembangkan aplikasi ini dan bagaimana Anda mengatasinya]
