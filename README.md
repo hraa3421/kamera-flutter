@@ -3,10 +3,13 @@
 ## Deskripsi
 Aplikasi ini merupakan implementasi kamera pada Flutter yang memungkinkan pengguna untuk mengambil foto menggunakan kamera perangkat.
 
-## Screenshot Hasil
-![Screenshot aplikasi kamera](assets/Take Picture.jpg)
-## Screenshot running take picture
-![Screenshot aplikasi kamera](assets/Display picture.jpg)
+## Screenshot Running Take Picture
+
+![Screenshot aplikasi kamera](assets/TakePicture.jpg)
+
+## Screenshot running Display picture
+
+![Screenshot aplikasi kamera](assets/DisplayPicture.jpg)
 
 
 ## Penjelasan
